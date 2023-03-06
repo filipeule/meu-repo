@@ -1,0 +1,15 @@
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.exe
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.deps.json
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.runtimeconfig.json
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.dll
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.pdb
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.csproj.AssemblyReference.cache
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.AssemblyInfoInputs.cache
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.AssemblyInfo.cs
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.csproj.CoreCompileInputs.cache
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.dll
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\obj\Debug\net7.0\refint\MeuPrimeiroRepo.dll
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.pdb
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.genruntimeconfig.cache
+D:\Meus Estudos\cursos\ativos\07. Fundamentos do Azure, Git, GitHub e DevOps\MeuPrimeiroRepo\obj\Debug\net7.0\ref\MeuPrimeiroRepo.dll
